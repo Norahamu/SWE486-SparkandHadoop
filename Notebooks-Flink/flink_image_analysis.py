@@ -9,7 +9,7 @@ env_settings = EnvironmentSettings.new_instance().in_batch_mode().build()
 table_env = TableEnvironment.create(env_settings)
 
 # Define the path to the CSV directory
-csv_directory = '/workspaces/Spark-jupyter/data/Arabic/*.csv'
+csv_directory = '/workspaces/Spark-jupyter/Dataset/*.csv'
 
 # Initialize a list to track failed files
 failed_files = []
