@@ -5,7 +5,7 @@ import chardet
 import plotly.express as px
 
 # CSV directory
-csv_directory = '/workspaces/Spark-jupyter/data/Arabic/*.csv'
+csv_directory = '/workspaces/Spark-jupyter/Dataset/*.csv'
 all_data = pd.DataFrame()
 failed_files = []
 
