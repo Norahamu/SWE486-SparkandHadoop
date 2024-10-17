@@ -36,7 +36,7 @@ def plot_most_frequent_categories(data):
         print("The DataFrame is empty or does not contain the necessary columns.")
 
 # Specify the correct path to your CSV files
-file_path_pattern = '/workspaces/Spark-jupyter/data/Arabic/*.csv'  # This matches all CSV files in the Arabic directory
+file_path_pattern = '/workspaces/Spark-jupyter/Dataset/*.csv'  # This matches all CSV files in the Arabic directory
 
 # Read the data
 data = read_data(file_path_pattern)
