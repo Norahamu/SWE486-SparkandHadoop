@@ -17,7 +17,7 @@ settings = EnvironmentSettings.new_instance().in_batch_mode().use_blink_planner(
 table_env = TableEnvironment.create(settings)
 
 # Directory containing CSV files
-csv_directory = '/workspaces/Spark-jupyter/data/Arabic/*.csv'
+csv_directory = '/workspaces/Spark-jupyter/Dataset/*.csv'
 all_data = pd.DataFrame()
 failed_files = []
 
