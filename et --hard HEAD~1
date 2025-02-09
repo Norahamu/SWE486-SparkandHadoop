@@ -1,0 +1,191 @@
+[33mcommit 880f8032b5abcf9559c003dd7446c6a28a8cbe6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Nov 7 22:13:40 2024 +0300
+
+    Update and rename flink_image_analysis.py to image_analysis.jar
+
+ delete mode 100644 Notebooks-Flink/flink_image_analysis.py
+
+[33mcommit cec9685be1d8c14ea48df75d5d4b033fe5266d45[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Nov 7 22:11:44 2024 +0300
+
+    Update and rename Top10Publishers.py to Top10Publishers.jar
+
+ delete mode 100644 Notebooks-Flink/Top10Publishers.py
+
+[33mcommit e2cf0c68820b9c80e0d3ef43380c55361746f891[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Nov 7 22:10:27 2024 +0300
+
+    Update and rename Top10Categories.py to Top10Categories.jar
+
+ delete mode 100644 Notebooks-Flink/Top10Categories.py
+
+[33mcommit e3fef09d97852148998df5e14cb3977bb1067443[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Nov 7 22:07:57 2024 +0300
+
+    Update and rename MostPublicationsPerYear.py to MostPublicationsPerYear.jar
+
+ delete mode 100644 Notebooks-Flink/MostPublicationsPerYear.py
+
+[33mcommit 25b7936f01e760640f5d9957c1645b7ad3449e71[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Nov 7 22:05:42 2024 +0300
+
+    Update and rename ArticalCategory.py to ArticalCategory.py
+
+ delete mode 100644 Notebooks-Flink/ArticalCategory.py
+
+[33mcommit 6bd215e1127520301339ca91234f707dbbf1b5c3[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Thu Oct 17 13:49:26 2024 +0300
+
+    Delete Notebooks-Spark/CategoriesAndImages.ipynb
+
+ delete mode 100644 Notebooks-Spark/CategoriesAndImages.ipynb
+
+[33mcommit e498dc746bdc6f15697e27687abd73ce0a935b48[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Wed Oct 16 18:58:09 2024 +0300
+
+    Delete Notebooks-Flink/MostPublicationsPerYear.ipynb
+
+ delete mode 100644 Notebooks-Flink/MostPublicationsPerYear.ipynb
+
+[33mcommit 70812ab3ab308f645aa37603979bf54b7f06ccd4[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Wed Oct 16 00:08:43 2024 +0300
+
+    Delete Notebooks-Spark/Top10Publishers.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Publishers.ipynb
+
+[33mcommit 06aadaecf05bc605e466fec6c0b73505f859a5c0[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Wed Oct 16 00:04:13 2024 +0300
+
+    Delete Notebooks-Spark/Top10Publishers.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Publishers.ipynb
+
+[33mcommit 0cd6005bec92d2b26505d3b3846faa95f4e390e2[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:58:57 2024 +0300
+
+    Delete Notebooks-Spark/Top10Publishers.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Publishers.ipynb
+
+[33mcommit 26b4f382e3b970e5397204c2f9f13498ba96c32e[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:58:49 2024 +0300
+
+    Delete Notebooks-Spark/Top10Categories.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Categories.ipynb
+
+[33mcommit a7ca9adaebc1fa1a4131fc3b0d78030262df3a17[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:50:13 2024 +0300
+
+    Delete Notebooks-Spark/Top10Publishers.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Publishers.ipynb
+
+[33mcommit f3d903fc58bedd0da72d9ab20a4488fcd3e8e0d6[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:50:02 2024 +0300
+
+    Delete Notebooks-Spark/Top10Categories.ipynb
+
+ delete mode 100644 Notebooks-Spark/Top10Categories.ipynb
+
+[33mcommit 30caaba729103609d07a20728f850876f1d88db7[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:39:57 2024 +0300
+
+    Rename CategoriesAndImages.ipynb to Notebooks-Spark/CategoriesAndImages.ipynb
+
+ delete mode 100644 CategoriesAndImages.ipynb
+
+[33mcommit 6aeb1b758ff0e07554db585f76efb94b89012517[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:39:13 2024 +0300
+
+    Rename Top10Categories.ipynb to Notebooks-Spark/Top10Categories.ipynb
+
+ delete mode 100644 Top10Categories.ipynb
+
+[33mcommit 7c367455b95754007451b9adcd4f763f2adfc08e[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:38:52 2024 +0300
+
+    Rename Top10Publishers.ipynb to Notebooks-Spark/Top10Publishers.ipynb
+
+ delete mode 100644 Top10Publishers.ipynb
+
+[33mcommit ebeaa6f9f021b3c204faeb58624283669bdacb4a[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:28:36 2024 +0300
+
+    Delete notebooks/population.ipynb
+
+ delete mode 100644 notebooks/population.ipynb
+
+[33mcommit 3e5db170c2b8b41d5e1515df5bc5a3d2ec8ae337[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:28:21 2024 +0300
+
+    Delete notebooks/matplotlib.ipynb
+
+ delete mode 100644 notebooks/matplotlib.ipynb
+
+[33mcommit 7c58c2270492c720994011834a9124a2572d20d7[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:28:10 2024 +0300
+
+    Delete notebooks/image-classifier.ipynb
+
+ delete mode 100644 notebooks/image-classifier.ipynb
+
+[33mcommit b1bfbe83118d81083607c0562c511f0612355358[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:27:59 2024 +0300
+
+    Delete notebooks/Untitled.ipynb
+
+ delete mode 100644 notebooks/Untitled.ipynb
+
+[33mcommit 3ab7b49df720ffb3b64a8f380d7ac326f51c784c[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:27:41 2024 +0300
+
+    Delete notebooks/.~Untitled.ipynb
+
+ delete mode 100644 notebooks/.~Untitled.ipynb
+
+[33mcommit 25d777a5c71df53b60f619e2f60625a99778b58a[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:14:15 2024 +0300
+
+    Delete data/arabic_ccnews_all_updated.csv
+
+ delete mode 100644 data/arabic_ccnews_all_updated.csv
+
+[33mcommit 007dbab598ba2ab2a6d8e5ac788fe809ac82eaa0[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:14:05 2024 +0300
+
+    Delete data/atlantis.csv
+
+ delete mode 100644 data/atlantis.csv
+
+[33mcommit 3660c44cc8054b4ceba68b2260b590cf7d10f2b9[m
+Author: Norah <146964085+Norahamu@users.noreply.github.com>
+Date:   Tue Oct 15 23:12:11 2024 +0300
+
+    Delete Dataset
+
+ delete mode 100644 Dataset
